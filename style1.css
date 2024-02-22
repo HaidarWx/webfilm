@@ -1,0 +1,12 @@
+.nav-search button {
+  border: none;
+}
+.btn-nav {
+  border: none;
+}
+.card-body .btn {
+  width: 250px;
+}
+.hero {
+  background: url(https://i2.wp.com/assets.reedpopcdn.com/nvidia-geforce-rtx-4090-gpu.png/BROK/thumbnail/1600x900/format/jpg/quality/80/nvidia-geforce-rtx-4090-gpu.png) no-repeat center center;
+}

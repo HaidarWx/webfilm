@@ -1,0 +1,134 @@
+body {
+  background-color: #333;
+}
+
+.nav-search button {
+  border: none;
+}
+.btn-nav {
+  border: none;
+}
+.card-body .btn {
+  width: 250px;
+}
+.hero {
+  background: url(https://i2.wp.com/assets.reedpopcdn.com/nvidia-geforce-rtx-4090-gpu.png/BROK/thumbnail/1600x900/format/jpg/quality/80/nvidia-geforce-rtx-4090-gpu.png) no-repeat center center;
+}
+
+.button-nav {
+  background-color: transparent;
+  font-size: 25px;
+}
+.button-nav :hover {
+  color: #0dcaf0;
+}
+.navbar-nav :hover {
+  background-color: #0dcaf0;
+  border-radius: 1cm;
+  font-weight: 400;
+}
+.form {
+  border-radius: 10px;
+}
+
+.nav-search .search .btn :hover {
+  background-color: aliceblue;
+}
+
+.card-body .card-title {
+  font-size: 16px;
+  text-decoration: none;
+  color: black;
+}
+
+.genre {
+  border: none;
+  background-color: transparent;
+  height: 25px;
+
+  justify-content: center;
+}
+.genre :hover {
+  background-color: #cbd2d4;
+}
+
+.genre .bi {
+  font-size: 28px;
+}
+.genre a {
+  font-family: Poppins, sans-serif;
+  font-size: 20px;
+  border: none;
+  display: flex;
+  text-decoration: none;
+  color: rgb(48, 48, 48);
+  width: 150px;
+  justify-content: center;
+}
+.pemisah-1 .bi {
+  font-size: 20px;
+  color: red;
+}
+.pemisah-2 .bi {
+  font-size: 30px;
+  color: red;
+}
+
+.isi-film-trending {
+  background-color: #333;
+}
+.film {
+  border: 1px solid black;
+  width: 157px;
+  height: 267px;
+  font-family: Poppins, sans-serif;
+
+  color: black;
+  background-color: #333;
+}
+.film p {
+  font-size: 14px;
+}
+.link {
+  text-decoration: none;
+}
+.link .film {
+  background-color: #cbd2d4;
+  border: 2px solid #0dcaf0;
+}
+.link .film img {
+  border: solid #0dcaf0;
+}
+.link .film img :hover {
+  border: none;
+}
+.link .card:hover {
+  border: 5px solid #000000;
+}
+.isi-film-action {
+  background-color: #333;
+}
+footer {
+  height: 75px;
+}
+footer .footer-isi {
+}
+footer .footer-isi .html-logo {
+  width: 30px;
+  height: 30px;
+}
+footer .footer-isi .css-logo {
+  width: 35px;
+  height: 35px;
+}
+footer .footer-isi .bootstrap-logo {
+  width: 50px;
+  height: 50px;
+}
+footer .footer-isi .bi {
+  font-size: 30px;
+  color: #0dcaf0;
+}
+.play-film {
+  background-color: #333;
+}
